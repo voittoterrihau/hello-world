@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Voiton repository
+
+Tänään harjoitellaan repositoryn tekoa GitHubissa
